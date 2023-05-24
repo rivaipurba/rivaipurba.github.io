@@ -1,4 +1,8 @@
 /* styles.css */
+#head {
+    text-align: center;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -9,6 +13,15 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px;
+}
+
+#rivaipurba {
+    font-family: Montserrat;
+}
+
+#nav {
+    font-family: Montserrat;
+    font-size: 25px;
 }
 
 nav ul {
@@ -28,6 +41,32 @@ nav ul li a {
 
 section {
     padding: 20px;
+}
+
+
+#about {
+    background-color: #f9f9f9;
+    margin: auto;
+}
+
+#project {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    /* margin: auto; */
+}
+
+#contact-info a {
+    margin-right: 20px;
+    font-size: 24px;
+    color: #333333;
+    text-decoration: none;
 }
 
 footer {
