@@ -26,6 +26,7 @@ Cleaning and Changing Data Type to appropriate Data Types.
 ## Cases
 
 1. Cards Header.
+   
    ![Alt text](image-1.png)
 
    * Dataset has 195 total countries
@@ -35,6 +36,7 @@ Cleaning and Changing Data Type to appropriate Data Types.
    * About 50 million km2 of agricultural area
 
 2. 10 Most Populate Countries in the World.
+   
    ![Alt text](image-3.png)
 
    * China and India are the 2 most populate countries with aver 2.8 billion population shared
@@ -42,17 +44,20 @@ Cleaning and Changing Data Type to appropriate Data Types.
    * Most populated continent is Asia where China, India, Indonesia, Pakistan, Bangladesh and Japan reside (6 countries from 10 top most populated countries)
 
 3. Investigate the relationship between healthcare and economy aspects.
+   
    ![Alt text](image-4.png)
 
    * GDP and Co2-emissions are having correlation where countries with the most GPD (China, USA) are having largest Co2-emissions, it maybe from industrialized.
 
 4. Labor Force and Unemployment Analysis.
+   
    ![Alt text](image-5.png)
 
    * Unemployment rate in Africa is higher than other continent
    * Countries with largest minimum wage tend to have low unemployment rate
 
 5. Geographical Distribution of Arms Force.
+   
    ![Alt text](image-6.png)
 
    * Asia is continent with the largest arms force size.
